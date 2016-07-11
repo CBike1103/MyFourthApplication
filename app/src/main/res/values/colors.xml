@@ -3,4 +3,14 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="colorBg">#000000</color>
+    <color name="colorButton">#239abc</color>
+
+    <color name="colorView1BG">#990066</color>
+    <color name="colorView1Btn">#FFCC00</color>
+    <color name="colorView2BG">#FFCC00</color>
+    <color name="colorView2Btn">#CC0033</color>
+    <color name="colorView3BG">#FF0033</color>
+    <color name="colorView3Btn">#FFFF00</color>
 </resources>

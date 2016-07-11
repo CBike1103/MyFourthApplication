@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyFourthApplication</string>
+
+    <string name="go">Go!</string>
+    <string name="cf">陈方的App练习</string>
+    <string name="try_me">点我试试~！</string>
+    <string name="ylc">叶良辰</string>
+    <string name="kklxr">如果你不看看你的联系人，我有一百种方法让你呆不下去~</string>
+    <string name="msgfromylc">收到叶良辰发送过来的信息~</string>
+
 </resources>
